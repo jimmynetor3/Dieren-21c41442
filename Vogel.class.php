@@ -15,3 +15,4 @@ class Vogel extends Dier
     }
 
 }
+?>

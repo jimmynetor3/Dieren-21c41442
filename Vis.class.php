@@ -13,4 +13,5 @@ class Vis extends Dier
     {
         echo("blub blub");
     }
+
 }
