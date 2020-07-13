@@ -20,7 +20,6 @@ class Freek
     }
 
 }
-
 $vis = new Vis();
 $vogel = new Vogel();
 $freek = new Freek();
