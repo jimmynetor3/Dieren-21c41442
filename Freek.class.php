@@ -18,7 +18,6 @@ class Freek
         echo("freek geeft eten " . $dier->dier . PHP_EOL);
         $dier->eet();
     }
-
 }
 $vis = new Vis();
 $vogel = new Vogel();

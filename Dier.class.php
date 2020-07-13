@@ -13,5 +13,4 @@ class Dier
     {
         echo($this->dier . " slaapt" . PHP_EOL);
     }
-
 }

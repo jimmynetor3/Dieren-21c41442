@@ -13,5 +13,4 @@ class Vogel extends Dier
     {
         echo("tjilip tjilip");
     }
-
 }
